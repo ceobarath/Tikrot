@@ -1,6 +1,6 @@
 import os
 
-readme_content = """# TikRot - TikTok Content Generator
+# TikRot - TikTok Content Generator
 
 TikRot is a Streamlit application that automates the creation of TikTok-style videos from PDF content.
 
