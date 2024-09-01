@@ -14,7 +14,7 @@ TikRot is a Streamlit application that automates the creation of TikTok-style vi
 
 1. Clone the repository:
    ```
-   https://github.com/ceobarath/Tikrot.git
+   git clone https://github.com/yourusername/tikrot.git
    cd tikrot
    ```
 

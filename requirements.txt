@@ -1,0 +1,11 @@
+Flask
+PyPDF2
+gTTS
+moviepy==1.0.3
+streamlit
+flask-cors
+openai
+python-dotenv
+numpy==1.21.5
+Pillow==9.0.1
+tqdm==4.62.3
